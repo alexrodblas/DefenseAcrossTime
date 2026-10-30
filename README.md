@@ -2,7 +2,7 @@
 FPS Tower defense game developed with Unity. Multiple eras, enemies, turrets and progression system.
 This Project was developed as an academic group project.
 
-##About the game
+#About the game
 
 Defense Across Time combines first-person shooter mechanics with tower defense.
 
@@ -23,7 +23,7 @@ FMOD
 
 Blender
 
-##Main features
+#Main features
 
 - FPS player controller and camera
 - Enemy AI and movement behaviour.
