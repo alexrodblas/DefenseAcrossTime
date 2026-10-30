@@ -67,4 +67,6 @@ My main responsibilities included:
 
 
 🚧 Project status
-Academic group project. The game was not fully completed, but it provided practical experience in developing interconnected gameplay systems using Unity and C#.
+Academic group project. 
+
+The game was not fully completed, but it provided practical experience in developing interconnected gameplay systems using Unity and C#.
