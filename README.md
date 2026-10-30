@@ -39,13 +39,15 @@ Here are some of the scripts I developed for the project:
 
 [EnemyMovement.cs](Assets/Scripts/Enemies/EnemyMovement.cs) – Enemy movement and AI behaviour.
 
-EnemyAttack.cs – Melee and ranged enemy attack systems.
+[EnemyAttack.cs](Assets/Scripts/Enemies/EnemyAttack.cs) – Melee and ranged enemy attack systems.
 
-EnemiesController.cs – Enemy management and control.
+[EnemiesController.cs](Assets/Scripts/Enemies/EnemiesController.cs) – Enemies waves management and control.
 
-Enemy.cs – Enemy logic and behaviour.
+[Enemy.cs](Assets/Scripts/Enemies/Enemy.cs) – Enemy logic and behaviour.
 
-EnemiesAnimationController.cs – Enemy animation management.
+[EnemiesAnimationController.cs](Assets/Scripts/Enemies/EnemiesAnimationController.cs) – Enemy animation management.
+
+[LocalizationManager.cs](Assets/Scripts/Localization/LocalizationManager.cs) - Language control according to preferences 
 
 
 👨‍💻 My contributions
@@ -64,3 +66,5 @@ My main responsibilities included:
 <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/b56e5acf-d8ec-4b9f-86eb-0379210dda48" />
 
 
+🚧 Project status
+Academic group project. The game was not fully completed, but it provided practical experience in developing interconnected gameplay systems using Unity and C#.
