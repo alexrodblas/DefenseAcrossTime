@@ -37,15 +37,13 @@ Blender
 
 Here are some of the scripts I developed for the project:
 
-[EnemyMovement.cs](Assets/Scripts/Enemies/EnemyMovement.cs) – Enemy movement and AI behaviour.
+[Enemy.cs](Assets/Scripts/Enemies/Enemy.cs) – Enemy logic and behaviour through a state machine.
 
-[EnemyAttack.cs](Assets/Scripts/Enemies/EnemyAttack.cs) – Melee and ranged enemy attack systems.
+[EnemyMovement.cs](Assets/Scripts/Enemies/EnemyMovement.cs) – Enemy movement and AI behaviour using NavMesh.
 
-[EnemiesController.cs](Assets/Scripts/Enemies/EnemiesController.cs) – Enemies waves management and control.
+[EnemyAttack.cs](Assets/Scripts/Enemies/EnemyAttack.cs) – Melee and ranged enemy attack systems using Unity physics.
 
-[Enemy.cs](Assets/Scripts/Enemies/Enemy.cs) – Enemy logic and behaviour.
-
-[EnemiesAnimationController.cs](Assets/Scripts/Enemies/EnemiesAnimationController.cs) – Enemy animation management.
+[EnemiesController.cs](Assets/Scripts/Enemies/EnemiesController.cs) – Enemies waves management, control and progression across the eras.
 
 [LocalizationManager.cs](Assets/Scripts/Localization/LocalizationManager.cs) - Language control according to preferences 
 
