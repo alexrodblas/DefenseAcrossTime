@@ -33,6 +33,21 @@ Blender
 - Time machine health.
 - Multilingual support.
 
+💻 Code Highlights
+
+Here are some of the scripts I developed for the project:
+
+[EnemyMovement.cs](Assets/Scripts/Enemies/EnemyMovement.cs) – Enemy movement and AI behaviour.
+
+EnemyAttack.cs – Melee and ranged enemy attack systems.
+
+EnemiesController.cs – Enemy management and control.
+
+Enemy.cs – Enemy logic and behaviour.
+
+EnemiesAnimationController.cs – Enemy animation management.
+
+
 👨‍💻 My contributions
 
 This project was developed as part of a group project during my Higher Vocational Training in Multiplatform Application Development (DAM - Video Games).
