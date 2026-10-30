@@ -49,6 +49,3 @@ My main responsibilities included:
 <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/b56e5acf-d8ec-4b9f-86eb-0379210dda48" />
 
 
-🚀 Future improvements
-
-
