@@ -23,6 +23,8 @@ FMOD
 
 Blender
 
+GitHub
+
 💻 Main features
 
 - FPS player controller and camera
